@@ -1,0 +1,10 @@
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\bin\Debug\NorthWindDB.exe.config
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\bin\Debug\NorthWindDB.exe
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\bin\Debug\NorthWindDB.pdb
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.csprojAssemblyReference.cache
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.Properties.Resources.resources
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.csproj.GenerateResource.cache
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.csproj.CoreCompileInputs.cache
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.exe
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.pdb
+C:\Users\Alia\source\repos\NorthWindDB\NorthWindDB\obj\Debug\NorthWindDB.Customer_form.resources
